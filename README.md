@@ -13,5 +13,5 @@ Project Ideas:
 - Web scraping popular job postings on linkedin
   - Most in-demand skills
   - Automate a script to send a list of job postings daily
-  - IUGPT
-  - License Plate Recognition Software
+- IUGPT
+- License Plate Recognition Software

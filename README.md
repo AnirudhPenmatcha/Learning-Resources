@@ -15,3 +15,4 @@ Project Ideas:
   - Automate a script to send a list of job postings daily
 - IUGPT
 - License Plate Recognition Software
+- Common answers on from a Reddit thread

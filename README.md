@@ -10,7 +10,7 @@ DL basics (Offers a free certificate after completing the quiz): [link](https://
 Project Ideas:
 
 - Website where you can enter prompts to query a database with the help of LLMs
-- Web scraping popular job postings on linkedin
+- Web scraping job postings that are very common from Linkedin
   - Most in-demand skills
   - Automate a script to send a list of job postings daily
 - IUGPT
